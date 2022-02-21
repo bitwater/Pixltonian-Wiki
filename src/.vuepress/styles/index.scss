@@ -1,0 +1,46 @@
+:root {
+    // brand colors
+    --c-brand: #0072ff !important;
+    --c-brand-light: #0072ff !important;
+    --c-text-accent: #0072ff !important;
+    --back-to-top-color: #0072ff !important;
+    --back-to-top-color-hover: #0072ff !important;
+
+    --c-tip: #0072ff !important;
+
+    --el-color-primary: #0072ff !important;
+}
+
+.grid {
+    display: grid;
+    row-gap: 3rem;
+    grid-template-columns: repeat(5,minmax(0,1fr));
+    column-gap: 30px;
+    align-items: center;
+    margin: 40px 0;
+    text-align: center;
+
+    a {
+        width: 100%;
+        display: inline-block;
+    }
+
+    img {
+        max-height: 3rem;
+        vertical-align: middle;
+    }
+}
+
+.page #introduction {
+    display: none;
+}
+
+.logo-video {
+    width: 70%;
+}
+
+@media (max-width: 419px) {
+    .logo-video {
+        width: 100%;
+    }
+}
