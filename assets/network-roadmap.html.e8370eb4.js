@@ -1,0 +1,1 @@
+const t={key:"v-3b50f5d5",path:"/network-roadmap.html",title:"Roadmap",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645492883e3,contributors:[{name:"bitwater",email:"luosanshui@foxmail.com",commits:1}]},filePathRelative:"network-roadmap.md"};export{t as data};

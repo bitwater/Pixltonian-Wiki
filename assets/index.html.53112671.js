@@ -1,0 +1,1 @@
+const e={key:"v-c337f5e0",path:"/tech-weekly/",title:"Introduction",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645492883e3,contributors:[{name:"bitwater",email:"luosanshui@foxmail.com",commits:1}]},filePathRelative:"tech-weekly/README.md"};export{e as data};
