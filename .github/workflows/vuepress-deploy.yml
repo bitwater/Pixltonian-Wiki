@@ -12,7 +12,7 @@ jobs:
       env:
         ACCESS_TOKEN: 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
         TARGET_REPO: bitwater/Pixltonian-Wiki
-        TARGET_BRANCH: master
+        TARGET_BRANCH: gh_pages
         BUILD_SCRIPT: yarn && yarn build
         BUILD_DIR: src/.vuepress/dist
         # CNAME: https://www.gooflife.com/Pixltonian-Wiki
