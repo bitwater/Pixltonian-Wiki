@@ -19,8 +19,9 @@ module.exports = {
     ],
 
     themeConfig: {
-        repo: 'NaturalSelectionLabs',
-        docsRepo: 'NaturalSelectionLabs/Pixltonian-Wiki',
+        repo: 'bitwater',
+        docsRepo: 'bitwater/Pixltonian-Wiki',
+        docsBranch: 'master',
         sidebarDepth: 2,
         docsDir: 'src',
         logo: 'https://graphics.Pixltonian.workers.dev/',
